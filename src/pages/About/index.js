@@ -14,9 +14,9 @@ const About = () => (
         <h1 className="card-header">Alan Grosse</h1>
         <div className="card-body">
           <h5 className="card-title">Full Stack Developer</h5>
-          <a href="https://github.com/aagrosse" target="_blank"><i
+          <a href="https://github.com/aagrosse"><i
               className="fab fa-github fa-2x p-2 text-info"></i></a>
-          <a href="https://www.linkedin.com/in/alan-grosse-89101312" target="_blank"><i
+          <a href="https://www.linkedin.com/in/alan-grosse-89101312"><i
               className="fab fa-linkedin-in fa-2x p-2 text-info"></i></a>
         </div>
         <div className="card-body">
