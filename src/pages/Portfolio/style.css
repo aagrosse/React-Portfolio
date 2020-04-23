@@ -1,0 +1,32 @@
+.container {
+    padding-top: 60px;
+  }
+  
+  .card {
+    min-height: 260px;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+ #profile {
+    border-radius: 20px !important;
+    opacity: 75%;
+  }
+
+  .shadow{
+    box-shadow: 0 12px 12px 0 rgba(0, 0, 0, 0.2), 0 8px 20px 1px rgba(0, 0, 0, 0.19);
+  }
+
+  .portIm{
+      padding-top: 1em;
+  }
+
+  .profile-image{
+      width: 200px;
+    
+    
+  }
+
+  

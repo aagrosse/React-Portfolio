@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "img": "https://github.com/aagrosse/portfolio-four/blob/master/assets/img/hikingApp.gif?raw=true",
+        "title": "Hikers Guide",
+        "repo": "https://github.com/aagrosse/theHikersGuide",
+        "liveApp": "https://aagrosse.github.io/theHikersGuide/",
+        "description": ""
+    },
+    {
+        "id": 2,
+        "img": "https://github.com/aagrosse/portfolio-four/blob/master/assets/img/filefish.gif?raw=true",
+        "title": "FileFish",
+        "repo": "https://github.com/aagrosse/fileFish",
+        "liveApp": "https://file-fish.herokuapp.com/",
+        "description": ""
+    },
+    {
+        "id": 3,
+        "img": "https://github.com/aagrosse/portfolio-four/blob/master/assets/img/weatherdash.gif?raw=true",
+        "title": "Weather Dashboard",
+        "repo": "https://github.com/aagrosse/weatherDashboard",
+        "liveApp": "https://aagrosse.github.io/weatherDashboard/",
+        "description": "A responsive weather dashboard application with search functionality to find current weather conditions and the future weather outlook for multiple cities."
+    },
+    {
+        "id": 4,
+        "img": "https://github.com/aagrosse/portfolio-four/blob/master/assets/img/burger.gif?raw=true",
+        "title": "Eat-da-burger",
+        "repo": "https://github.com/aagrosse/burger",
+        "liveApp": "https://salty-brushlands-73681.herokuapp.com/",
+        "description": ""
+    },
+    {
+        "id": 5,
+        "img": "https://github.com/aagrosse/portfolio-four/blob/master/assets/img/dailyPlanner.gif?raw=true",
+        "title": "Daily Planner",
+        "repo": "https://github.com/aagrosse/dailyPlanner",
+        "liveApp": "https://aagrosse.github.io/dailyPlanner/",
+        "description": ""
+    },
+    {
+        "id": 6,
+        "img": "https://github.com/aagrosse/React-Employee-Directory/raw/master/public/dir.png",
+        "title": "React Employee Directory",
+        "repo": "https://github.com/aagrosse/React-Employee-Directory",
+        "liveApp": "https://aagrosse.github.io/React-Employee-Directory/",
+        "description": ""
+    }
+]
