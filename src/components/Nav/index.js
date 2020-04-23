@@ -1,10 +1,10 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
 
 function Nav(props) {
   return (
     <nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
-      <a className="navbar-brand" href="#">Alan Grosse</a>
+      <a className="navbar-brand">Alan Grosse</a>
       <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02"
         aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
@@ -13,16 +13,17 @@ function Nav(props) {
       <div className="collapse navbar-collapse" id="navbarColor02">
         <ul className="navbar-nav mr-auto">
           <li className="nav-item">
-            <a className="nav-link fas fa-user-alt text-info" href="/about"> About</a>
+            <Link className="nav-link fas fa-user-alt text-info" to="/about"> About</Link>
+            
           </li>
           <li className="nav-item">
-            <a className="nav-link fas fa-laptop-code" href="/portfolio"> Portfolio</a>
+            <Link className="nav-link fas fa-laptop-code" to="/portfolio"> Portfolio</Link>
           </li>
           <li className="nav-item">
-            <a className="nav-link fas fa-file-alt" href="/resume"> Resume</a>
+            <Link className="nav-link fas fa-file-alt" to="/resume"> Resume</Link>
           </li>
           <li className="nav-item">
-            <a className="nav-link fas fa-envelope" href="/contact"> Contact</a>
+            <Link className="nav-link fas fa-envelope" to="/contact"> Contact</Link>
           </li>
         </ul>
       </div>
