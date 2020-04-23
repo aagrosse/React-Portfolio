@@ -1,5 +1,5 @@
 import React from "react";
-import profile from '../../assets/AAG09457.JPG'
+
 import './style.css'
 
 const About = () => (
@@ -8,7 +8,7 @@ const About = () => (
   <div className="card mb-3 shadow">
     <div className="row no-gutters">
       <div className="col-md-2">
-        <img src={profile} id="profile" className="card-img p-2" alt="Alan" />
+        <img src="https://github.com/aagrosse/portfolio-four/blob/master/assets/img/AAG09457.jpg?raw=true" id="profile" className="card-img p-2" alt="Alan" />
       </div>
       <div className="col-md-10">
         <h1 className="card-header">Alan Grosse</h1>
