@@ -38,7 +38,7 @@ const Resume = () => (
       <hr />
       <div className="resume-intro py-3">
         <div className="div media flex-column flex-md-row">
-          <img className="profile-image mb-3 mb-md-0 mr-md-5 ml-md-0 rounded mx-auto" src={img} alt="Bio Image" />
+          <img className="profile-image mb-3 mb-md-0 mr-md-5 ml-md-0 rounded mx-auto" src={img} alt="Bio" />
           <div className="div media-body text-left">
             <p className="mb-0">Hello, I'm Alan.  Full Stack Web Developer with background in graphic design and leveraging a degree in
             Architecture from The University of Georgia to create solutions that are both user friendly and elegant.  Eager to use
@@ -197,11 +197,11 @@ const Resume = () => (
 
         <div className="resume-footer text-center">
           <ul className="list-inline mx-auto mb-0 d-inline-block text-muted">
-            <li className="list-inline-item mb-lg-0 mr-3"><a href="https://github.com/aagrosse" target="_blank"><i
+            <li className="list-inline-item mb-lg-0 mr-3"><a href="https://github.com/aagrosse" rel="noopener noreferrer" target="_blank"><i
               className="fab fa-github fa-2x p-2 text-danger"></i></a>
             </li>
             <li className="list-inline-item mb-lg-0 mr-3"><a href="https://www.linkedin.com/in/alan-grosse-89101312"
-              target="_blank"><i className="fab fa-linkedin-in fa-2x p-2 text-danger"></i></a></li>
+              rel="noopener noreferrer" target="_blank"><i className="fab fa-linkedin-in fa-2x p-2 text-danger"></i></a></li>
           </ul>
 
 
